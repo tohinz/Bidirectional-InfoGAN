@@ -5,6 +5,7 @@ Additional samples according to the discrete values of the categorical variable 
 ![](./imgs/mnist/mnist_cat_c1.png)
 
 Additional samples from the continuous variable c_2 (stroke width):
+uneven rows show the samples according to the minimum values, even rows show samples according to the maximum values of c_2 of each categorical value
 ![](./imgs/mnist/mnist_cont_c2.png)
 
 Additional samples from the continuous variable c_3 (digit rotation):
