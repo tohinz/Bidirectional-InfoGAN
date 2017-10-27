@@ -1,6 +1,7 @@
 # Bidirectional-InfoGAN
 
-## Further Results on the MNIST Data Set
+## Further Results
+### MNIST Data Set
 Additional samples according to the individual values of the categorical variable c<sub>1</sub>:
 ![](./imgs/mnist/mnist_cat_c1.png)
 
@@ -12,6 +13,17 @@ Additional samples from the continuous variable c<sub>3</sub> (digit rotation):
 uneven rows show the samples according to the minimum values, even rows show samples according to the maximum values of c<sub>3</sub> of each categorical value
 ![](./imgs/mnist/mnist_cont_c3.png)
 
-## MNIST Images from the Paper
+### CelebA Data Set
+
+### SVHN Data Set
+
+## Images from the Paper
+### MNIST Images
 ![](./imgs/imgs_paper/mnist/mnist_disc.png)
 ![](./imgs/imgs_paper/mnist/mnist_cont.png)
+
+### CelebA Images
+![](./imgs/imgs_paper/celeba/celeba_disc.png)
+
+### SVHN Images
+![](./imgs/imgs_paper/svhn/svhn_disc.png)
