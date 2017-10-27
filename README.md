@@ -19,11 +19,11 @@ uneven rows show the samples according to the minimum values, even rows show sam
 
 ## Images from the Paper
 ### MNIST Images
-![](./imgs/imgs_paper/mnist/mnist_disc.png)
+![](./imgs/imgs_paper/mnist/mnist_cat.png)
 ![](./imgs/imgs_paper/mnist/mnist_cont.png)
 
 ### CelebA Images
-![](./imgs/imgs_paper/celeba/celeba_disc.png)
+![](./imgs/imgs_paper/celeba/celeba_cat.png)
 
 ### SVHN Images
-![](./imgs/imgs_paper/svhn/svhn_disc.png)
+![](./imgs/imgs_paper/svhn/svhn_cat.png)
