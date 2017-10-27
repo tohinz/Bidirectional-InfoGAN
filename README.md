@@ -1,7 +1,7 @@
 # Bidirectional-InfoGAN
 
 ## Further Results on the MNIST Data Set
-Additional samples according to the discrete values of the categorical variable c_1:
+Additional samples according to the discrete values of the categorical variable c<sub>1</sub>:
 ![](./imgs/mnist/mnist_cat_c1.png)
 
 Additional samples from the continuous variable c_2 (stroke width):
