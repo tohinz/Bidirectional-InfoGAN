@@ -1,3 +1,13 @@
+* [Bidirectional-InfoGAN](#bidirectional-infogan)
+      * [Additional Results](#additional-results)
+         * [MNIST Data Set](#mnist-data-set)
+         * [CelebA Data Set](#celeba-data-set)
+         * [SVHN Data Set](#svhn-data-set)
+      * [Images from the Paper](#images-from-the-paper)
+         * [MNIST Images](#mnist-images)
+         * [CelebA Images](#celeba-images)
+         * [SVHN Images](#svhn-images)
+
 # Bidirectional-InfoGAN
 
 For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
