@@ -2,11 +2,13 @@
 
 For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
 
-[Additional Results](#Additional_Results)  
+
+[Additional Results](##Additional_Results) 
+[Additional Results - MNIST](###Additional_Results:MNIST)  
 
 <a name="Additional_Results"/>
 ## Additional Results
-<a name="Additional Results: MNIST"/>
+<a name="Additional_Results:MNIST"/>
 ### MNIST Data Set
 Additional samples according to the individual values of the categorical variable c<sub>1</sub>:
 ![](./imgs/mnist/mnist_cat_c1.png)
