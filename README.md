@@ -24,7 +24,7 @@ Images with high confidence in blond hair:
 ![](./imgs/celeba/celeba_blond.png)
 
 Images with high confidence in a woman looking to the right:
-![](./imgs/celeba/celeba_woman_looking_right.png
+![](./imgs/celeba/celeba_woman_looking_right.png)
 
 Images with high confidence in blue background:
 ![](./imgs/celeba/celeba_blue.png)
