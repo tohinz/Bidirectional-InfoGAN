@@ -3,8 +3,8 @@
 For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
 
 
-[Additional Results](##Additional_Results) 
-[Additional Results - MNIST](###Additional_Results:MNIST)  
+[Additional Results](Additional_Results) 
+[Additional Results - MNIST](Additional_Results:MNIST)  
 
 <a name="Additional_Results"/>
 ## Additional Results
