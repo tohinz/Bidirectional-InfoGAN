@@ -1,5 +1,7 @@
 # Bidirectional-InfoGAN
 
+For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
+
 ## Further Results
 ### MNIST Data Set
 Additional samples according to the individual values of the categorical variable c<sub>1</sub>:
