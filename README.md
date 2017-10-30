@@ -2,6 +2,7 @@
 
 For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
 
+Contents:
 * [Additional Results](#additional-results)
     * [MNIST Data Set](#mnist-data-set)
     * [CelebA Data Set](#celeba-data-set)
