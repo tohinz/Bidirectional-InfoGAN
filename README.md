@@ -60,9 +60,11 @@ Images with high confidence in red background:
 Here we show images that are sampled from the CelebA test set according to their value (minimum and maximum) for the continuous variables c<sub>5</sub>, ..., c<sub>8</sub>. In each image the first two rows show images where the value of the given continuous variable is small, while the second two rows show images where the continuous variable's value is large.
 
 From not happy to happy:
+
 ![](./imgs/celeba/continuous/celeba_mood.png)
 
 From light hair to darker hair:
+
 ![](./imgs/celeba/continuous/celeba_haircolor.png)
 
 From light background to darker background:
