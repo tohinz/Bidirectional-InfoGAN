@@ -13,10 +13,10 @@ Contents:
         * [Categorical Variables](#categorical-variables-1)
         * [Continuous Variables](#continuous-variables-1)
     * [SVHN Data Set](#svhn-data-set)
-    * [Images from the Paper](#images-from-the-paper)
-         * [MNIST Images](#mnist-images)
-         * [CelebA Images](#celeba-images)
-         * [SVHN Images](#svhn-images)
+* [Images from the Paper](#images-from-the-paper)
+     * [MNIST Images](#mnist-images)
+     * [CelebA Images](#celeba-images)
+     * [SVHN Images](#svhn-images)
 
 
 ## Additional Results
