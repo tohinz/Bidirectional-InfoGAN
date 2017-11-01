@@ -16,9 +16,11 @@ Contents:
 
 ## Additional Results
 ### MNIST Data Set
+#### Categorical Variables
 Additional samples according to the individual values of the categorical variable c<sub>1</sub>:
 ![](./imgs/mnist/mnist_cat_c1.png)
 
+#### Continuous Variables
 Additional samples from the continuous variable c<sub>2</sub> (stroke width):
 uneven rows show the samples according to the minimum values, even rows show samples according to the maximum values of c<sub>2</sub> of each categorical value
 ![](./imgs/mnist/mnist_cont_c2.png)
