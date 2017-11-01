@@ -7,7 +7,7 @@ Contents:
     * [MNIST Data Set](#mnist-data-set)
     * [CelebA Data Set](#celeba-data-set)
     * [SVHN Data Set](#svhn-data-set)
-* [Images from the Paper](#images-from-the-paper)
+* [Images from the Paper](#images-from-the-paper): The original images used in the paper.
     * [MNIST Images](#mnist-images)
     * [CelebA Images](#celeba-images)
     * [SVHN Images](#svhn-images)
