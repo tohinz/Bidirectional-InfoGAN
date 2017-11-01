@@ -14,6 +14,21 @@ Contents:
     * [CelebA Images](#celeba-images)
     * [SVHN Images](#svhn-images)
 
+
+* [Additional Results](#additional-results)
+    * [MNIST Data Set](#mnist-data-set)
+        * [Categorical Variables](#categorical-variables)
+        * [Continuous Variables](#continuous-variables)
+    * [CelebA Data Set](#celeba-data-set)
+        * [Categorical Variables](#categorical-variables-1)
+        * [Continuous Variables](#continuous-variables-1)
+    * [SVHN Data Set](#svhn-data-set)
+    * [Images from the Paper](#images-from-the-paper)
+         * [MNIST Images](#mnist-images)
+         * [CelebA Images](#celeba-images)
+         * [SVHN Images](#svhn-images)
+
+
 ## Additional Results
 ### MNIST Data Set
 #### Categorical Variables
