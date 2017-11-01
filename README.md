@@ -26,17 +26,26 @@ uneven rows show the samples according to the minimum values, even rows show sam
 ![](./imgs/mnist/mnist_cont_c3.png)
 
 ### CelebA Data Set
-Images with high confidence on the presence of glasses:
+Images with high confidence in the presence of glasses:
 ![](./imgs/celeba/celeba_glasses.png)
 
-Images with high confidence on the presence of hats:
+Images with high confidence in the presence of hats:
 ![](./imgs/celeba/celeba_hats.png)
 
 Images with high confidence in blond hair:
 ![](./imgs/celeba/celeba_blond.png)
 
-Images with high confidence in a woman looking to the right:
+Images with high confidence in a person looking to the right:
 ![](./imgs/celeba/celeba_woman_looking_right.png)
+
+Images with high confidence in a person looking to the left:
+![](./imgs/celeba/celeba_woman_looking_left.png)
+
+Images with high confidence in a person with a darker skin tone:
+![](./imgs/celeba/celeba_dark_skin.png)
+
+Images with high confidence in a person with their mouth open:
+![](./imgs/celeba/celeba_mouth_open.png)
 
 Images with high confidence in blue background:
 ![](./imgs/celeba/celeba_blue.png)
