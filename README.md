@@ -36,10 +36,10 @@ Images with high confidence in blond hair:
 ![](./imgs/celeba/celeba_blond.png)
 
 Images with high confidence in a person looking to the right:
-![](./imgs/celeba/celeba_woman_looking_right.png)
+![](./imgs/celeba/celeba_looking_right.png)
 
 Images with high confidence in a person looking to the left:
-![](./imgs/celeba/celeba_woman_looking_left.png)
+![](./imgs/celeba/celeba_looking_left.png)
 
 Images with high confidence in a person with a darker skin tone:
 ![](./imgs/celeba/celeba_dark_skin.png)
