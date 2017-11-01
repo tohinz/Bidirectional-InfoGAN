@@ -2,9 +2,8 @@
 
 The work presented here was done at the [Knowledge Technology Research Group](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/ "Knowledge Technology Research Group") at the University of Hamburg and submitted as a conference contribution to the [ESANN 2018](https://www.elen.ucl.ac.be/esann/).
 
-For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
-
 Contents:
+* [Architectures and Hyperparameters](#architectures-and-hyperparameters)
 * [Additional Results](#additional-results)
     * [MNIST Data Set](#mnist-data-set)
         * [Categorical Variables](#categorical-variables)
@@ -18,6 +17,9 @@ Contents:
      * [CelebA Images](#celeba-images)
      * [SVHN Images](#svhn-images)
 
+
+## Architectures and Hyperparameters
+For further details on the network architectures and the hyperparameters used during the experiments see [Architectures and Hyperparameters](./architectures/network-architectures.pdf).
 
 ## Additional Results
 ### MNIST Data Set
