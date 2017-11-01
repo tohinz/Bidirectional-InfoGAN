@@ -5,16 +5,6 @@ The work presented here was done at the [Knowledge Technology Research Group](ht
 For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
 
 Contents:
-* [Additional Results](#additional-results): Additional random samples from the respective test sets according to certain characteristics represented by the values in c.
-    * [MNIST Data Set](#mnist-data-set)
-    * [CelebA Data Set](#celeba-data-set)
-    * [SVHN Data Set](#svhn-data-set)
-* [Images from the Paper](#images-from-the-paper): The original images used in the paper.
-    * [MNIST Images](#mnist-images)
-    * [CelebA Images](#celeba-images)
-    * [SVHN Images](#svhn-images)
-
-
 * [Additional Results](#additional-results)
     * [MNIST Data Set](#mnist-data-set)
         * [Categorical Variables](#categorical-variables)
