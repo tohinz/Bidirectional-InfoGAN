@@ -3,7 +3,7 @@
 For further details on the network architectures and the hyperparameters used during the experiments see: [Architectures and Hyperparameters](./architectures/network-architectures.pdf)
 
 Contents:
-* [Additional Results](#additional-results)
+* [Additional Results](#additional-results): Additional random samples from the respective test sets according to certain characteristics represented by the values in c.
     * [MNIST Data Set](#mnist-data-set)
     * [CelebA Data Set](#celeba-data-set)
     * [SVHN Data Set](#svhn-data-set)
