@@ -26,32 +26,48 @@ uneven rows show the samples according to the minimum values, even rows show sam
 ![](./imgs/mnist/mnist_cont_c3.png)
 
 ### CelebA Data Set
+#### Categorical Variables
+Here we show images that are sampled from the CelebA test set according to a categorical value of the variables c<sub>1</sub>, ..., c<sub>4</sub>.
+
 Images with high confidence in the presence of glasses:
-![](./imgs/celeba/celeba_glasses.png)
+![](./imgs/celeba/categorical/celeba_glasses.png)
 
 Images with high confidence in the presence of hats:
-![](./imgs/celeba/celeba_hats.png)
+![](./imgs/celeba/categorical/celeba_hats.png)
 
 Images with high confidence in blond hair:
-![](./imgs/celeba/celeba_blond.png)
+![](./imgs/celeba/categorical/celeba_blond.png)
 
 Images with high confidence in a person looking to the right:
-![](./imgs/celeba/celeba_looking_right.png)
+![](./imgs/celeba/categorical/celeba_looking_right.png)
 
 Images with high confidence in a person looking to the left:
-![](./imgs/celeba/celeba_looking_left.png)
+![](./imgs/celeba/categorical/celeba_looking_left.png)
 
 Images with high confidence in a person with a darker skin tone:
-![](./imgs/celeba/celeba_dark_skin.png)
+![](./imgs/celeba/categorical/celeba_dark_skin.png)
 
 Images with high confidence in a person with their mouth open:
-![](./imgs/celeba/celeba_mouth_open.png)
+![](./imgs/celeba/categorical/celeba_mouth_open.png)
 
 Images with high confidence in blue background:
-![](./imgs/celeba/celeba_blue.png)
+![](./imgs/celeba/categorical/celeba_blue.png)
 
 Images with high confidence in red background:
-![](./imgs/celeba/celeba_red.png)
+![](./imgs/celeba/categorical/celeba_red.png)
+
+#### Continuous Variables
+Here we show images that are sampled from the CelebA test set according to their value (minimum and maximum) for the continuous variables c<sub>5</sub>, ..., c<sub>8</sub>. In each image the first two rows show images where the value of the given continuous variable is small, while the second two rows show images where the continuous variable's value is large.
+
+From not happy to happy:
+![](./imgs/celeba/continuous/celeba_mood.png)
+
+From light hair to darker hair:
+![](./imgs/celeba/continuous/celeba_haircolor.png)
+
+From light background to darker background:
+![](./imgs/celeba/continuous/celeba_background.png)
+
 
 ### SVHN Data Set
 
