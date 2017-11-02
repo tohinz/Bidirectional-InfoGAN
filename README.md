@@ -84,7 +84,7 @@ From light background to darker background:
 
 ### SVHN Data Set
 #### Categorical Variables
-Here we show images that are sampled from the CelebA test set according to a categorical value of the variables c<sub>1</sub>, ..., c<sub>4</sub>.
+Here we show images that are sampled from the SVHN test set according to a categorical value of the variables c<sub>1</sub>, ..., c<sub>4</sub>.
 
 Images with multiple digits:  
 ![](./imgs/svhn/categorical/svhn_multiple_digits.png)
@@ -130,7 +130,7 @@ Images with high confidence in "5" or "6" being present:
 
 
 #### Continuous Variables
-Here we show images that are sampled from the CelebA test set according to their value (minimum and maximum) for the continuous variables c<sub>5</sub>, ..., c<sub>8</sub>. In each image the first two rows show images where the value of the given continuous variable is small, while the second two rows show images where the continuous variable's value is large.
+Here we show images that are sampled from the SVHN test set according to their value (minimum and maximum) for the continuous variables c<sub>5</sub>, ..., c<sub>8</sub>. In each image the first two rows show images where the value of the given continuous variable is small, while the second two rows show images where the continuous variable's value is large.
 
 Blue digit to yellow digit:  
 ![](./imgs/svhn/continuous/svhn_blue_yellow_digit.png)
