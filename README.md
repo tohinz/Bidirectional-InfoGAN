@@ -108,14 +108,20 @@ Images with a "1" on light background:
 Images with high confidence in "2" or "4" being present:  
 ![](./imgs/svhn/categorical/svhn_2_4.png)
 
-Images with high confidence in "2" or "7" being present:  
-![](./imgs/svhn/categorical/svhn_2_7.png)
+Images with high confidence in "2" or "7" on dark background:  
+![](./imgs/svhn/categorical/svhn_2_7_dark.png)
+
+Images with high confidence in "2" or "7" on light background:  
+![](./imgs/svhn/categorical/svhn_2_7_light.png)
 
 Images with high confidence in "3" or "8" being present:  
 ![](./imgs/svhn/categorical/svhn_3_8.png)
 
-Images with high confidence in a "4" being present:  
-![](./imgs/svhn/categorical/svhn_4.png)
+Images with high confidence in a "4" on dark background:  
+![](./imgs/svhn/categorical/svhn_4_dark.png)
+
+Images with high confidence in a "4" on light background:  
+![](./imgs/svhn/categorical/svhn_4_light.png)
 
 Images with high confidence in "5" or "6" being present:  
 ![](./imgs/svhn/categorical/svhn_5_6.png)
