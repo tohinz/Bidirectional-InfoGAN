@@ -81,6 +81,48 @@ From light background to darker background:
 
 
 ### SVHN Data Set
+#### Categorical Variables
+Here we show images that are sampled from the CelebA test set according to a categorical value of the variables c<sub>1</sub>, ..., c<sub>4</sub>.
+
+Images with multiple digits:  
+![](./imgs/svhn/categorical/svhn_multiple_digits.png)
+
+Images with two digits on the left:  
+![](./imgs/svhn/categorical/svhn_two_digits_left.png)
+
+Images with two digits on the right:  
+![](./imgs/svhn/categorical/svhn_two_digits_right.png)
+
+Images with blue background:  
+![](./imgs/svhn/categorical/svhn_blue.png)
+
+Images with high confidence in "0" or "9" being present:  
+![](./imgs/svhn/categorical/svhn_0_9.png)
+
+Images with a "1" on dark background:  
+![](./imgs/svhn/categorical/svhn_1_dark.png)
+
+Images with a "1" on light background:  
+![](./imgs/svhn/categorical/svhn_1_light.png)
+
+Images with high confidence in "2" or "4" being present:  
+![](./imgs/svhn/categorical/svhn_2_4.png)
+
+Images with high confidence in "2" or "7" being present:  
+![](./imgs/svhn/categorical/svhn_2_7.png)
+
+Images with high confidence in "3" or "8" being present:  
+![](./imgs/svhn/categorical/svhn_3_8.png)
+
+Images with high confidence in a "4" being present:  
+![](./imgs/svhn/categorical/svhn_4.png)
+
+Images with high confidence in "5" or "6" being present:  
+![](./imgs/svhn/categorical/svhn_5_6.png)
+
+
+#### Continuous Variables
+Here we show images that are sampled from the CelebA test set according to their value (minimum and maximum) for the continuous variables c<sub>5</sub>, ..., c<sub>8</sub>. In each image the first two rows show images where the value of the given continuous variable is small, while the second two rows show images where the continuous variable's value is large.
 
 ## Images from the Paper
 ### MNIST Images
