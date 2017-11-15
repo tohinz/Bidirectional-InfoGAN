@@ -75,10 +75,10 @@ Here we show images that are sampled from the CelebA test set according to their
 From not smiling to smiling:  
 ![](./imgs/celeba/continuous/celeba_smile.png)
 
-From light hair to darker hair:  
+From lighter hair to darker hair:  
 ![](./imgs/celeba/continuous/celeba_haircolor.png)
 
-From light background to darker background:
+From lighter background to darker background:
 ![](./imgs/celeba/continuous/celeba_background.png)
 
 
@@ -135,7 +135,7 @@ Here we show images that are sampled from the SVHN test set according to their v
 Blue digit to yellow digit:  
 ![](./imgs/svhn/continuous/svhn_blue_yellow_digit.png)
 
-Light background to dark background:  
+Lighter background to darker background:  
 ![](./imgs/svhn/continuous/svhn_dark_light_background.png)
 
 ## Images from the Paper
