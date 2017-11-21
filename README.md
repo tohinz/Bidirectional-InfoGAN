@@ -8,6 +8,7 @@ Contents:
     * [MNIST Data Set](#mnist-data-set)
         * [Categorical Variables](#categorical-variables)
         * [Continuous Variables](#continuous-variables)
+        * [Wrongly Classified Images](#wrongly-classified-images)
     * [CelebA Data Set](#celeba-data-set)
         * [Categorical Variables](#categorical-variables-1)
         * [Continuous Variables](#continuous-variables-1)
@@ -37,6 +38,10 @@ uneven rows show the samples according to the minimum values, even rows show sam
 Additional samples from the continuous variable c<sub>3</sub> (digit rotation):
 uneven rows show the samples according to the minimum values, even rows show samples according to the maximum values of c<sub>3</sub> of each categorical value
 ![](./imgs/mnist/continuous/mnist_cont_c3.png)
+
+### Wrongly Classified Images
+Here we show all images (310) from the MNIST test set that were wrongly classified by our best model (accuracy of 96.99%). For each class 0-9 we show the images that were classified incorrectly with the label that was assigned by our model.
+![](./imgs/mnist/wrongly_classified.png)
 
 ### CelebA Data Set
 #### Categorical Variables
