@@ -4,7 +4,7 @@ Implementation and additional results of "Inferencing Based on Unsupervised Lear
 The work presented here was done at the [Knowledge Technology Research Group](https://www.inf.uni-hamburg.de/en/inst/ab/wtm/ "Knowledge Technology Research Group") at the University of Hamburg and accepted as a conference contribution to the [ESANN 2018](https://www.elen.ucl.ac.be/esann/).
 
 Contents:
-* [Run Experiment](#To-Run-the-Experiment-on-MNIST-Data-Set)
+* [Run Experiment](#to-run-the-experiment-on-mnist-data-set)
 * [Architectures and Hyperparameters](#architectures-and-hyperparameters)
 * [Additional Results](#additional-results)
     * [MNIST Data Set](#mnist-data-set)
@@ -26,6 +26,7 @@ Contents:
 Requirements:
 * Tensorflow 1.5.0
 * Numpy 1.14.1
+
 Run
 * `python code/train_mnist.py`
 
