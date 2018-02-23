@@ -27,8 +27,12 @@ Requirements:
 * Tensorflow 1.5.0
 * Numpy 1.14.1
 
-Run
-* `python code/train_mnist.py`
+Run Experiment:
+* run `python code/train_mnist.py`
+Results are stored in code/log_dir/mnist
+* to visualize results: `tensorboard --logdir code/log_dir/mnist`
+* for each experiment run log_dir also contains two folders (sample_cont and sample_disc) in which samples from the validation set that maximally activate each disentangled variable are stored at each logging step,
+
 
 ## Architectures and Hyperparameters
 For further details on the network architectures and the hyperparameters used during the experiments see [Architectures and Hyperparameters](./architectures/network-architectures.pdf).
