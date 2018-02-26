@@ -33,6 +33,11 @@ Results are stored in code/log_dir/mnist
 * to visualize results: `tensorboard --logdir code/log_dir/mnist`
 * for each experiment run log_dir also contains two folders (samples_cont and samples_disc) in which samples from the validation set that maximally activate each disentangled variable are stored at each logging step
 
+To evaluate the results:
+* run `python evaluate_model.py --model_dir dir-where-model-weights-are-stored` with one of the following flags:
+    * `--evaluate`: evaluates the encodings' accuracy on the MNIST test set. Needs a file "encodings.txt" (stored in the same dir as --model_dir) which gives the mappings from the learned encodings to the actual labels. Use for example the images from the directory samples_disc to find the right mappings. E.g. for the following image the encodings.txt file would look as following: `6,5,9,2,1,8,3,0,4,7`, since 
+![Example Image of Encodings](example_encoding/example.png)
+
 
 ## Architectures and Hyperparameters
 For further details on the network architectures and the hyperparameters used during the experiments see [Architectures and Hyperparameters](./architectures/network-architectures.pdf).
