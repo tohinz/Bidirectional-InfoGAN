@@ -37,7 +37,7 @@ To evaluate the results:
 * run `python evaluate_model.py --model_dir dir-where-model-weights-are-stored` with one of the following flags:
     * `--evaluate`: evaluates the encodings' accuracy on the MNIST test set. Needs a file "encodings.txt" (stored in the same dir as --model_dir) which gives the mappings from the learned encodings to the actual labels. Use for example the images from the directory samples_disc to find the right mappings. E.g. for the following image the encodings.txt file would look as following: `6,5,9,2,1,8,3,0,4,7`, since the sixth row encodes zeros, the fifth row encodes ones, the last (ninth) row encodes twos, etc
 ![Example Image of Encodings](code/example_encoding/example.png)
-    * `--sample`: samples images from the test set accoridng to their values in the categorical and continuous variables of z. Samples are stored in model_dir/samples (samples_categorical.png, sample_cont_c1.png, sample_cont_c2.png)
+    * `--sample`: samples images from the test set according to their values in the categorical and continuous variables of z. Samples are stored in model_dir/samples (samples_categorical.png, sample_cont_c1.png, sample_cont_c2.png)
     * `--reconstruct`: samples twenty images X of each class from the test set and reconstructs them, i.e. G(E(X)). Result is stored in model_dir/samples/samples_reconstruction.png, where the uneven columns (first, third, ...) depict the original images and the even columns depict the respective reconstructions
     * `--generate`: generates new samples according to the different categorical values. Results are stored in model_dir/samples/generated_imgs_categorical.png
 
